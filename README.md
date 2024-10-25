@@ -1,3 +1,1 @@
-# odin-recipes
-
-# This project will use HTML to create a recipe website
+# This is a collection of various recipes found online throughout the internet
