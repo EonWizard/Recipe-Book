@@ -1,2 +1,3 @@
-# Recipe-Book
-Various public recipes found on the internet
+# odin-recipes
+
+# This project will use HTML to create a recipe website

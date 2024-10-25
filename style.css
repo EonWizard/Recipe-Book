@@ -1,0 +1,38 @@
+*{
+    background-color: bisque;
+}
+
+body{
+    align-content: center;
+    text-align: center;
+    list-style: inside;
+    
+}
+
+.recipe{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+img{
+    width: 720;
+    height: auto;
+}
+
+
+.name{
+    color: rgba(212, 138, 0, 0.702);
+}
+
+ .description, .ingredients, .instructions{
+    text-decoration: underline;
+ }
+
+ .ingredients{
+    list-style: none;
+ }
+
+ 
